@@ -23,3 +23,14 @@ tags:
 	}).then(null, function (err) {
 	  assert.ok(err instanceof Error);
 	});
+
+3.mongoexport
+   http://chenzhou123520.iteye.com/blog/1641319
+
+4.mongoimport
+
+5.mongodump
+
+6. mongorestore
+
+
